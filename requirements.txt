@@ -2,3 +2,5 @@ paddlepaddle
 paddleclas
 paddleseg
 Paddlex
+visualdl
+paddlegan
