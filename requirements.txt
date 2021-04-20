@@ -4,3 +4,4 @@ paddleseg
 Paddlex
 visualdl
 paddlegan
+paddledet
